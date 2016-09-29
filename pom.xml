@@ -16,7 +16,7 @@
 	</properties>
 	<dependencies>
 		<dependency>
-			<groupId>org.pss</groupId>
+			<groupId>org.mitre</groupId>
 			<artifactId>openid-connect-client</artifactId>
 			<version>${mitreid-connect-version}</version>
 		</dependency>
